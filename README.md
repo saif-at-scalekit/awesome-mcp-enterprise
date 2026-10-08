@@ -201,7 +201,7 @@
 
 - **[Prefactor](https://prefactor.tech/)** - Native MCP Identity Layer for Modern SaaS. Secure, authorize, and audit AI agents — not just users. 🆓 🛡️ 🇪🇺 🏥 
 
-- **[scalekit](https://www.scalekit.com/)** - Modular auth platform for AI applications. Drop-in OAuth 2.1 specifically designed for MCP servers. 🆓 🔑 🛡️ 📜 🇪🇺 📘
+- **[scalekit](https://www.scalekit.com/)** - Scalekit provides auth and actions on behalf of users, with 500+ connectors and 20,000+ tools. 🆓 🔑 🛡️ 📜 🇪🇺 📘
 
  - **[SGNL](https://sgnl.ai/)** - Acquired by CrowdStrike (January 2026, $740M). Continuous Identity platform for real-time access control across human, non-human, and AI identities. 🔑 🛡️ 📜
 
